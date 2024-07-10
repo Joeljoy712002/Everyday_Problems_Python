@@ -22,6 +22,7 @@ Welcome to the Daily Python Coding Challenges repository! The aim of this reposi
     - Implement your solution in Python.
 
 3. **Submit Your Solution(OPTIONAL)**:
+    - fork this repo
     - Go to user Solutions folder and find the specific problem.
     - create a new file with your name and impliment your solutions.
     - Commit your changes and push to your forked repository.
