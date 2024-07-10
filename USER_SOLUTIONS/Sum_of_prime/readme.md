@@ -1,0 +1,1 @@
+# Solution for Sum_of_prime
