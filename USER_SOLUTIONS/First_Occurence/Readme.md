@@ -1,0 +1,1 @@
+# Solution for first_occurence
